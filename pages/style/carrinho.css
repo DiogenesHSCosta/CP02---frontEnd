@@ -214,15 +214,15 @@ footer a {
     padding: 5px 0;
 }
 
-
+figure{
+    position: relative;
+}
 #imagemCarinho{
     position: absolute;
-    left: 55%;
-    bottom: -49%;
-    /* display: none; */
+    left: 80%;
+    top: 0%;
     width: 0px;
 }
-
 
 .animacao{
 
