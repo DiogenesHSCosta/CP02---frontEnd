@@ -29,5 +29,6 @@ Parte da aplicação que tem como intuito indicar as melhores receitas para acom
 
 ### Carrinho:
 > CUPOM: FIAP24
+
 Seguimento da aplicação que busca simular a inserção de pedidos no carrinho.
 Caso queira conhecer as nossa incriveis ofertas, estamos disponibilizando um cupom de 10% de desconto
