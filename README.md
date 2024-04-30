@@ -1,6 +1,6 @@
 # CP02 FRONTEND - Vinheria Agnello
 
-Esse projeto é uma aplicação web desenvolvida utilizando HTML, CSS e JS para desenvolver os fundamentos de Web Design
+Esse projeto é uma aplicação web desenvolvida utilizando HTML, CSS e JS para desenvolver os fundamentos de Web Design.
 A aplicação retrata uma vinheira que deseja migrar para o meio digital e busca uma experiencia unica, pessoal e acolhedora que se assemelhe ao atendimento presencial
 
 ## INTEGRANTES:
